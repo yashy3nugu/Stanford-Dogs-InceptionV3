@@ -31,6 +31,8 @@ As you can see Swiss mountain dogs and Bernese Mountain dogs are very similar
 
 ![Swiss mountain dog and Bernese mountain dog](swiss.jpg)
 
+
+
 # Overview of the entire network
 
 1. Input to Inceptionv3 (non trainable)
@@ -42,6 +44,8 @@ As you can see Swiss mountain dogs and Bernese Mountain dogs are very similar
 7. Dense layer (240 units)
 8. Dropout layer
 9. Softmax layer (120 units)
+
+The network uses data augmentation and dropout to reduce overfitting
 
 
 # Training and Testing accuracy
