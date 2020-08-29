@@ -19,6 +19,8 @@ The data can be found at https://www.kaggle.com/jessicali9530/stanford-dogs-data
 # Inception V3
 InceptionV3 is a convolutional neural network for assisting in image analysis and object detection, and got its start as a module for Googlenet. It is the third edition of Google's Inception Convolutional Neural Network, originally introduced during the ImageNet Recognition Challenge.
 The model network uses the weights of the inception network trained on the 'imagenet' database and frozen.
+The network is shown below.
+![InceptionV3](inceptionv3.png)
 
 
 # Challenges The network might face
