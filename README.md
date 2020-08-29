@@ -45,7 +45,7 @@ As you can see Swiss mountain dogs and Bernese Mountain dogs are very similar
 8. Dropout layer
 9. Softmax layer (120 units)
 
-The network uses data augmentation and dropout to reduce overfitting
+The network uses data augmentation and dropout to reduce overfitting and is implemented in a google colab environment
 
 
 # Training and Testing accuracy
@@ -54,6 +54,12 @@ After training with 80%-20% training and testing split respectively the results 
 - ***Testing accuracy*** = 72%
 
 ***Note*** - The trained weights have been provided in the repo. Importing them has been desribed in the instructions below.
+
+# Instructions
+
+1. Open the ***Dog_classifier.ipynb*** file.
+2. After opening click on the 'Open in Colab' button. This will redirect you to a google colab environment.
+3.
 
 
 
