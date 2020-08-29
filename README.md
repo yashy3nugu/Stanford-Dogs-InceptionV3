@@ -31,4 +31,21 @@ As you can see Swiss mountain dogs and Bernese Mountain dogs are very similar
 
 ![Swiss mountain dog and Bernese mountain dog](swiss.jpg)
 
+# Overview of the entire network
+
+1. Input to Inceptionv3 (non trainable)
+2. Average Pooling 2D layer
+3. Flattening layer
+4. Dropout layer 
+5. Dense layer (240 units)
+6. Dropout layer
+7. Dense layer (240 units)
+8. Dropout layer
+9. Softmax layer (120 units)
+
+
+# Training and Testing accuracy
+After training with 80%-20% training and testing split respectively the results are as follows.
+- ***Training accuracy*** = 78%
+- ***Testing accuracy*** = 72%
 
