@@ -53,3 +53,7 @@ After training with 80%-20% training and testing split respectively the results 
 - ***Training accuracy*** = 78%
 - ***Testing accuracy*** = 72%
 
+***Note*** - The trained weights have been provided in the repo. Importing them has been desribed in the instructions below.
+
+
+
