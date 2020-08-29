@@ -19,6 +19,8 @@ The data can be found at https://www.kaggle.com/jessicali9530/stanford-dogs-data
 # Inception V3
 InceptionV3 is a convolutional neural network for assisting in image analysis and object detection, and got its start as a module for Googlenet. It is the third edition of Google's Inception Convolutional Neural Network, originally introduced during the ImageNet Recognition Challenge.
 The model network uses the weights of the inception network trained on the 'imagenet' database and frozen.
+The network is shown below.
+![InceptionV3](inceptionv3.png)
 
 
 # Challenges The network might face
@@ -28,5 +30,36 @@ This might cause challenges for the network.
 As you can see Swiss mountain dogs and Bernese Mountain dogs are very similar
 
 ![Swiss mountain dog and Bernese mountain dog](swiss.jpg)
+
+
+
+# Overview of the entire network
+
+1. Input to Inceptionv3 (non trainable)
+2. Average Pooling 2D layer
+3. Flattening layer
+4. Dropout layer 
+5. Dense layer (240 units)
+6. Dropout layer
+7. Dense layer (240 units)
+8. Dropout layer
+9. Softmax layer (120 units)
+
+The network uses data augmentation and dropout to reduce overfitting and is implemented in a google colab environment
+
+
+# Training and Testing accuracy
+After training with 80%-20% training and testing split respectively the results are as follows.
+- ***Training accuracy*** = 78%
+- ***Testing accuracy*** = 72%
+
+***Note*** - The trained weights have been provided in the repo. Importing them has been desribed in the instructions below.
+
+# Instructions
+
+1. Open the ***Dog_classifier.ipynb*** file.
+2. After opening click on the 'Open in Colab' button. This will redirect you to a google colab environment.
+3.
+
 
 
