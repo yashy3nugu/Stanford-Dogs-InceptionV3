@@ -25,6 +25,8 @@ The model network uses the weights of the inception network trained on the 'imag
 The dataset contains dog breeds which are visually similar to each other.
 This might cause challenges for the network.
 
-As you can see Swiss mountain Dog and Bernese Mountain dogs are very similar
+As you can see Swiss mountain dogs and Bernese Mountain dogs are very similar
 
 ![Swiss mountain dog and Bernese mountain dog](swiss.jpg)
+
+
