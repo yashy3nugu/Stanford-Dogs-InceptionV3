@@ -1,5 +1,3 @@
-# Stanford-Dogs-InceptionV3
-
 # Stanford Dogs dataset Classifier
 by Yashaswi Yenugu
 
@@ -63,7 +61,7 @@ After training with 80%-20% training and testing split respectively the results 
 4. Run the code cells of the notebook.
 4. Ignore the code cells under headings labeled ***(*skip)*** if you only want to test the network without training.
 5. Upload the files ***'checkpoint', 'cp.ckpt.data-00000-of-00001' and 'cp.ckpt.index'*** when asked by the notebook. This will import the weights.
-8. Run the subsequent cells to upload your own images to test the network. Further instructions are given in the notebook
+6. Run the subsequent cells to upload your own images to test the network. Further instructions are given in the notebook
 
 
 
