@@ -1,4 +1,4 @@
-# Stanford Dogs dataset Classifier
+# Stanford Dogs dataset classifier
 by Yashaswi Yenugu
 
 # The Dataset
