@@ -13,6 +13,9 @@ Hence it would be beneficial to use transfer learning.
 The dataset is imported from Kaggle.
 The data can be found at https://www.kaggle.com/jessicali9530/stanford-dogs-dataset
 
+More information about the dataset can be found at http://vision.stanford.edu/aditya86/ImageNetDogs/
+![example images](https://i.imgur.com/Mp2Te2Y.png)
+
 
 # Inception V3
 InceptionV3 is a convolutional neural network for assisting in image analysis and object detection, and got its start as a module for Googlenet. It is the third edition of Google's Inception Convolutional Neural Network, originally introduced during the ImageNet Recognition Challenge.
