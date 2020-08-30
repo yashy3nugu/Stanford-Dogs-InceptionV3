@@ -60,11 +60,10 @@ After training with 80%-20% training and testing split respectively the results 
 1. Open the ***Dog_classifier.ipynb*** file.
 2. After opening click on the 'Open in Colab' button. This will redirect you to a google colab environment.
 3. Download the files named ***'checkpoint', 'cp.ckpt.data-00000-of-00001', 'cp.ckpt.index' and 'kaggle.json'***.
-4. When asked by the notebook upload the kaggle.json file.
-5. Upload the files ***'checkpoint', 'cp.ckpt.data-00000-of-00001' and 'cp.ckpt.index'***. This will import the weights.
-6. Run the subsequent code cells.
-7. If you want to train the network, run the cell under the heading 'Training the model'. Ignore otherwise.
-8. Run the subsequent cells to upload your own images to test the network
+4. Run the code cells of the notebook.
+4. Ignore the code cells under headings labeled ***(*skip)*** if you only want to test the network without training.
+5. Upload the files ***'checkpoint', 'cp.ckpt.data-00000-of-00001' and 'cp.ckpt.index'*** when asked by the notebook. This will import the weights.
+8. Run the subsequent cells to upload your own images to test the network. Further instructions are given in the notebook
 
 
 
