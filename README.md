@@ -30,7 +30,7 @@ This might cause challenges for the network.
 
 As you can see Swiss mountain dogs and Bernese Mountain dogs are very similar
 
-![Swiss mountain dog and Bernese mountain dog](swiss.jpg)
+![Swiss mountain dog and Bernese mountain dog](https://i.imgur.com/Cwzthgx.jpg)
 
 
 
